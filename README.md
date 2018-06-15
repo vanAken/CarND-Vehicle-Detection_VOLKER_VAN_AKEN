@@ -4,7 +4,7 @@
 Hello, [this](https://github.com/vanAken/CarND-Vehicle-Detection_VOLKER_VAN_AKEN/blob/master/P5_van_Aken.pdf) is my writeup as a pdf.
 
 
-In additional you find a video named "P5_video_ave_S14.mp4" as my final result.
+You can find my video named "P5_video_ave_S14.mp4" as my final result
 
-And additionally my first result with YOLOv3  named "P5_video_ave.mp4"
+and additionally my first out of the box result with YOLOv3 named "P5_video_ave.mp4".
 
